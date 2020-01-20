@@ -2,7 +2,7 @@
 
 # Research Interest
 - Blockchain
-- Machine Learning
+- Computer Vision
 
 # Education Experienc
 - 2014.09--2018.06 Southwest University of Science and Technology
